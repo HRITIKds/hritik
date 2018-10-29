@@ -455,11 +455,7 @@ def main():
 	elif hritik == "8" or hritik == "08":
 				print "\n      [01] ShellPhish"
 				print "        [02] SocialFish"
-				socialhacking = raw_input(hritikds > ")
-				if  socialhacking == "01" or socialhacking == "1":
-				    ShellPhish()
-				elif socialhacking == "02" or socialhacking =="2":
-				SocialFish()
+				
 				
 
 	elif hritik == "9" or hritik == "09":
